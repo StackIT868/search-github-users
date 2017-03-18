@@ -20,7 +20,7 @@
 
 ### SEE IT IN ACTION ###
 
-http://bit.ly/2muqzju
+[View Demo Here](https://stackit868.github.io/search-github-users/)
 
 
 ### Owner ###
